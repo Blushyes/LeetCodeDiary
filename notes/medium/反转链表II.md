@@ -59,3 +59,47 @@ class Solution {
 ~~~
 
 此为官方解，这题思路简单但是操作起来容易出错。
+
+~~~java
+class Solution {
+    private void reverseLinkedList(ListNode head) {
+        ListNode pre = null;
+        ListNode cur = head;
+
+        while (cur != null) {
+            ListNode next = cur.next;
+            cur.next = pre;
+            pre = cur;
+            cur = next;
+        }
+    }
+
+    public ListNode reverseBetween(ListNode head, int left, int right) {
+        ListNode dummyNode = new ListNode(-1, head);
+        ListNode cut = dummyNode, linkNode1, linkNode2;
+
+        for(int i = 0; i < left - 1; ++i){
+            cut = cut.next;
+        }
+        ListNode tail = cut.next;
+        linkNode1 = cut;
+
+        for(int i = left - 1; i < right; ++i){
+            cut = cut.next;
+        }
+        linkNode2 = cut.next;
+
+        linkNode1.next = null;
+        cut.next = null;
+
+        reverseLinkedList(tail);
+
+        tail.next = linkNode2;
+        linkNode1.next = cut;
+
+        return dummyNode.next;
+    }
+}
+~~~
+
+此为按照官方解修改后的解。
