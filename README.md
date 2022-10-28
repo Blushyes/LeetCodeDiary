@@ -30,6 +30,8 @@ LeetCode刷题日记，学习各种数据结构和算法，记录一下刷题过
 
 [寻找峰值](https://leetcode.cn/problems/find-peak-element/)，
 
+[x的平方根](./notes/easy/x的平方根.md)，
+
 
 ## 双指针
 [Two Sum](./notes/medium/两数和.md)，
