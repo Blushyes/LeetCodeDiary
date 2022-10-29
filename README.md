@@ -33,6 +33,8 @@ LeetCode刷题日记，学习各种数据结构和算法，记录一下刷题过
 [x的平方根](./notes/easy/x的平方根.md)，
 
 [有效的完全平方数](./notes/easy/有效的完全平方数.md)，
+
+[Pow(x, n)](./notes/medium/Pow(x, n).md)，
 ## 双指针
 [Two Sum](./notes/medium/两数和.md)，
 
