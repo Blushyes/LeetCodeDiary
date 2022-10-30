@@ -32,9 +32,10 @@ LeetCode刷题日记，学习各种数据结构和算法，记录一下刷题过
 
 [有效的完全平方数](./notes/easy/有效的完全平方数.md)，
 
-[Pow(x, n)](./notes/medium/Pow(x, n).md)，
+[Pow](./notes/medium/Pow.md)，
 
 [转变数组后最接近目标值的数组和](./notes/medium/转变数组后最接近目标值的数组和.md)，
+
 ## 双指针
 [Two Sum](./notes/medium/两数和.md)，
 
