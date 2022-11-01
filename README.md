@@ -36,6 +36,8 @@ LeetCode刷题日记，学习各种数据结构和算法，记录一下刷题过
 
 [转变数组后最接近目标值的数组和](./notes/medium/转变数组后最接近目标值的数组和.md)，
 
+[爱吃香蕉的珂珂](./notes/medium/爱吃香蕉的珂珂.md)，
+
 ## 双指针
 [Two Sum](./notes/medium/两数和.md)，
 
