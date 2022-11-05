@@ -83,8 +83,9 @@ LeetCode刷题日记，学习各种数据结构和算法，记录一下刷题过
 
 [杨辉三角II](./notes/easy/杨辉三角II.md)，
 
-[打家劫舍](./notes/medium/打家劫舍.md)
+[打家劫舍](./notes/medium/打家劫舍.md)，
 
+[打家劫舍II](./notes/medium/打家劫舍II.md)，
 ## List
 
 [杨辉三角](./notes/easy/杨辉三角.md)，
