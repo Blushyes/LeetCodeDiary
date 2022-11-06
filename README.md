@@ -46,7 +46,9 @@ LeetCode刷题日记，学习各种数据结构和算法，记录一下刷题过
 [接雨水](./notes/hard/接雨水.md)
 
 ## 贪心
-[把数组排成最小的数](./notes/medium/把数组排成最小的数.md)
+[把数组排成最小的数](./notes/medium/把数组排成最小的数.md)，
+
+[跳跃游戏II](./notes/medium/跳跃游戏II.md)，
 
 ## 链表
 [反转链表](./notes/easy/反转链表.md)，
@@ -86,6 +88,9 @@ LeetCode刷题日记，学习各种数据结构和算法，记录一下刷题过
 [打家劫舍](./notes/medium/打家劫舍.md)，
 
 [打家劫舍II](./notes/medium/打家劫舍II.md)，
+
+[跳跃游戏II](./notes/medium/跳跃游戏II.md)，
+
 ## List
 
 [杨辉三角](./notes/easy/杨辉三角.md)，
