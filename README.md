@@ -91,6 +91,8 @@ LeetCode刷题日记，学习各种数据结构和算法，记录一下刷题过
 
 [跳跃游戏II](./notes/medium/跳跃游戏II.md)，
 
+[不同的子序列](./notes/hard/不同的子序列.md)，
+
 ## List
 
 [杨辉三角](./notes/easy/杨辉三角.md)，
