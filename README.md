@@ -100,7 +100,9 @@ LeetCode刷题日记，学习各种数据结构和算法，记录一下刷题过
 [杨辉三角](./notes/easy/杨辉三角.md)，
 
 ## DFS
-[岛屿的最大面积](./notes/medium/岛屿的最大面积.md)
+[岛屿的最大面积](./notes/medium/岛屿的最大面积.md)，
+
+[所有可能的路径](./notes/medium/所有可能的路径.md)，
 # 总结
 
 ## 栈
