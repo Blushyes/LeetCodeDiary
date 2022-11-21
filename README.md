@@ -95,6 +95,9 @@ LeetCode刷题日记，学习各种数据结构和算法，记录一下刷题过
 
 [青蛙过河](./notes/hard/青蛙过河.md)，
 
+[单词拆分](./notes/medium/单词拆分.md)，
+
+[完全平方数](./notes/medium/完全平方数.md)，
 ## List
 
 [杨辉三角](./notes/easy/杨辉三角.md)，
@@ -117,6 +120,11 @@ LeetCode刷题日记，学习各种数据结构和算法，记录一下刷题过
 [N叉树的前序遍历](./notes/easy/N叉树的前序遍历.md)，
 
 [N叉树的后序遍历](./notes/easy/N叉树的后序遍历.md)，
+
+[二叉树中的最大路径和](./notes/hard/二叉树中的最大路径和.md)，
+
+# BFS
+[最短的桥](./notes/medium/最短的桥.md)，
 
 # 典例
 
