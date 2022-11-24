@@ -38,6 +38,8 @@ LeetCode刷题日记，学习各种数据结构和算法，记录一下刷题过
 
 [爱吃香蕉的珂珂](./notes/medium/爱吃香蕉的珂珂.md)，
 
+[第N个神奇数字](./notes/hard/第N个神奇数字.md)，
+
 ## 双指针
 [Two Sum](./notes/medium/两数和.md)，
 
@@ -98,6 +100,11 @@ LeetCode刷题日记，学习各种数据结构和算法，记录一下刷题过
 [单词拆分](./notes/medium/单词拆分.md)，
 
 [完全平方数](./notes/medium/完全平方数.md)，
+
+[最长递增子序列](./notes/medium/最长递增子序列.md)，
+
+[最长递增子序列](./notes/medium/最长递增子序列.md)，
+
 ## List
 
 [杨辉三角](./notes/easy/杨辉三角.md)，
@@ -123,7 +130,7 @@ LeetCode刷题日记，学习各种数据结构和算法，记录一下刷题过
 
 [二叉树中的最大路径和](./notes/hard/二叉树中的最大路径和.md)，
 
-# BFS
+## BFS
 [最短的桥](./notes/medium/最短的桥.md)，
 
 # 典例
